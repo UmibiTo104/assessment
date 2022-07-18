@@ -24,7 +24,7 @@ form{
 }
 
 body{
-	background-image: url(html/bg.png) ;
+	background-image: url(python\html\bg.png) ;
     background-repeat: no-repeat;
 	background-size: cover;
 }
