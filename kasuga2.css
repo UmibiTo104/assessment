@@ -24,7 +24,7 @@ form{
 }
 
 body{
-	background-image: url(C:\Users\kamoi\worksplase\python\html\bg.png) ;
+	background-image: url(file:///C:/Users/kamoi/worksplase/python/html/bg.png) ;
     background-repeat: no-repeat;
 	background-size: cover;
 }
