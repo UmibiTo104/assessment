@@ -1,0 +1,45 @@
+h1{
+     color:rgba(15, 15, 15, 0.995);
+text-align: center;
+	margin: 0px;
+	padding: 10px 0px 0px;
+	font-size:70px;
+	font-family:serif;	
+}
+
+textarea{
+	margin: 0px;
+	padding: 0px;
+    font-size:20px;
+	height: 300px;
+	width: 700px;
+    text-align: justify;
+	background:#f4c5e7;
+}
+
+form{
+    text-align: center;
+    margin: 4px;
+	padding: 20px;
+}
+
+body{
+	background-image: url(bg.png) ;
+    background-repeat: no-repeat;
+	background-size: cover;
+}
+
+input{
+	color:rgba(243, 29, 200, 0.995);
+	background:#d8fd06;
+}
+
+
+cat{
+	height: 100px;
+	width: 30px;
+}
+
+ img{
+	margin:auto;
+ }
