@@ -24,7 +24,7 @@ form{
 }
 
 body{
-	background-image: src="https://sozai-good.com/download?id=83476&type=2&subnumber=0&extention=png";
+	background-image: url(bg.png);
     background-repeat: no-repeat;
 	background-size: cover;
 }
